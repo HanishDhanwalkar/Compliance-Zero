@@ -1,0 +1,7 @@
+fastmcp
+redis
+numpy
+sentence-transformers
+uvicorn
+pydantic
+requests
